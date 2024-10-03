@@ -1,4 +1,4 @@
-"git checkout"
+git checkout
 git add
 git commit -m
 git push
